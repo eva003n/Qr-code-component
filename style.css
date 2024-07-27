@@ -18,6 +18,7 @@ main {
   border-radius: 8px;
   text-align: center;
   padding: 1em;
+  box-shadow: 0 1rem 1rem rgba(0,0,0,0.1);
 }
 img{
     max-width: 100%;
